@@ -1,0 +1,69 @@
+body{
+	background: url(../Images/backg13.jpg);
+}
+#container{
+	background: #fff;
+	width: 800px;
+	min-height: 900px;
+	margin: 0 auto;
+	padding: 0px;
+	color: green;
+}
+#menu ul {
+	margin: 0;
+	padding: 5px;
+
+}
+#menu ul li{
+	list-style: none;
+	display: inline;
+}
+#menu ul li a{
+	text-decoration: none;
+	padding: 5px;
+	color: grey;
+}
+#menu ul li a:hover{
+	color: pink;
+}
+#explanation h3{
+	padding: 200px 0 0 0 ;
+	margin: 0;
+	color: #1565C0;
+
+}
+#explanation p{
+	padding-right:400px;
+	color: grey;
+	font-family: sans-serif;
+	text-align: justify;
+
+}
+#explanation2 h3{
+	padding-top:20px ;
+	color: #1565C0 ;
+
+}
+#explanation2 .p1 {
+	padding-right: 400px;
+	color: grey;
+	font-family: sans-serif;
+	text-align: justify;
+}
+#explanation3 h3{
+	padding-left: 450px;
+	color: red;
+}
+#explanation3 .p1{
+	padding-left: 450px;
+	padding-right: 15px;
+	color: grey;
+	font-family: sans-serif;
+	text-align: justify;
+}
+#footer{
+	padding-top: 5px;
+	text-align: center;
+	color: grey;
+
+}

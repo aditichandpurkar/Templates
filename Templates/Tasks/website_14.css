@@ -1,0 +1,144 @@
+body{
+	background: #e7d16b;
+}
+#container{
+	background: url(../Images/head.jpg) no-repeat top center;
+	width: 800px;
+	height: 267px;
+	margin: 0 auto;
+	padding: 0px;
+}
+#pageheader h2{ 
+	margin:0 0 0 150px;
+	padding: 10px 0 0 0  ;
+	float: right;
+	
+}
+#pageheader p{
+	margin: 50px 0 0 200px;
+	float: right;
+	text-align: justify;
+	color: grey;
+
+}
+#content p{
+	color: white;
+	padding: 200px 0 0 220px ;
+	text-align: justify;
+
+}
+#explaination {
+	display: block;
+	
+	
+	text-align: justify;
+	background: #86b160;
+/*	margin-left:0px ;*/
+
+	float: right;
+	
+	 color: white;
+}
+
+#explaination h3{
+	margin: 10px;
+	padding: 10px  10px;
+	background:#86b160 ;
+	border-bottom:  3px solid white;
+
+
+}
+#img{
+	background: url(../Images/dog.jpg) no-repeat ;
+	width: 179px;
+	height:250px;
+	float: left;
+	margin: 10px;
+	padding-right: 180px;
+	
+
+
+}
+#para{
+	position: absolute;
+	padding-left: 200px;
+	padding-right: 380px;
+	text-align: justify;
+	font-size: 13px;
+
+}
+#explaination2{
+	display: block;
+	margin-top: 360px;
+	margin-left: 420px;
+	background: #cfdebd;
+	padding: 10px 0px 10px 5px;
+
+}
+#explaination2 h3{
+	
+	background:#cfdebd;
+	margin-bottom: 0px;
+	border-bottom: 3px solid grey;
+	padding-bottom: 10px ;
+	padding-left: 10px;
+	color:grey ;
+}
+#para2{
+	margin-top:5px ;
+	float: right;
+	width: 350px;
+	background: #cfdebd;
+	padding: 10px 15px;
+	color: grey;
+	text-align: justify;
+}
+.menu {
+	display: block;
+	margin-left: 200px;
+	margin-top:-400px;
+	margin-right: 400px;
+	border: 3px solid white;
+	background: #c6d59c;
+
+}
+.menu h2{
+	color: grey;
+	padding-left: 15px;
+
+}
+.menu ul li{
+	list-style: none;
+	line-height: 1.5em;
+
+
+}.menu ul li a{
+	text-decoration: none;
+	color:black;
+
+}
+.menu ul li a:hover{
+	color: red;
+}
+.links{
+	margin-left: 200px;
+	margin-right: 400px;
+	margin-top: 10px;
+	padding: 15px;
+	border: 3px solid white;
+	background:#c6d59c ;
+}
+.links h2{
+	color: grey;
+}
+.links ul li{
+	list-style: none;
+	line-height: 2em;
+}
+.links ul li a{
+	text-decoration: none;
+	color: black;
+}
+.links ul li a:hover{
+	color: green;
+}

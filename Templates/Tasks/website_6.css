@@ -1,0 +1,162 @@
+body{
+	background: #fff;
+
+}
+#container{
+	background: url(../Images/headerpencil.jpg) no-repeat ;
+	width: 770px;
+	height: 175px;
+	margin: 0 auto;
+
+}
+#header h1{
+	padding: 20px 0px 0px 0px; 
+	float: right;
+	font-family: sans-serif;
+	letter-spacing: 0.5em;
+	color: red;
+}
+#header ul{
+	margin: 0px ;
+	padding:0px ;
+	list-style: none;
+	float: right;
+
+}
+#header ul li {
+	list-style: none;
+	display: inline-block;
+	color: #000;
+}
+#header ul li a{
+	margin: 0 20px ;
+	float: right;
+	color: #000;
+	float: right;
+	text-decoration: none;	
+} 
+#header ul li a:hover{
+	color: slateblue;
+}
+
+#supportingText{
+	margin: 0px 0px 0px 205px;
+	width: 300px;
+	padding-top:20px;
+	float: right;
+	padding-left: 10px;
+	
+}
+
+#supportingText p {
+/*	width: px;*/
+	
+	padding-top:5px;
+	
+	margin: 0;
+
+}
+#supportingText h3{
+	border: 1px solid skyblue;
+	width: 500px;
+	padding:10px 20px;
+/*	padding-left: 60px;*/
+	margin: 10px 50px 10px 5px;
+	background-color: skyblue;
+	color: white;
+/*	text-align: left;*/
+	float: left;
+
+}
+#supportingText ul{
+list-style: none;
+margin: 0;
+padding: 0;
+}
+#supportingText li{
+	text-decoration: none;
+	list-style: disc;
+
+}
+#supportingText ul li a{
+	color: red;
+	text-decoration: underline;
+
+}
+#supportingText ul li a:hover{
+	color: blue;
+
+}
+#footer {
+	padding: 5px 10px;
+	margin: 0px;
+	position: absolute;
+	 
+	 border: 1px solid skyblue;
+	 border-radius: 0px 0px 5px 5px;
+	 background: skyblue;
+	 display: inline-block;
+	 color: white;
+	 width: 600px;
+
+	 
+	
+}
+#footer ul {
+
+	list-style: none;
+	margin: 0;
+	float: right;
+}
+#footer ul li {
+	display: inline-block;
+
+
+}
+#footer ul li a{
+
+	
+	text-decoration: none;
+	color:white;
+
+
+}
+#box{
+	padding: 5px;
+	margin: 0px 0px 0px 600px;
+	 width: 200px;
+	 position: absolute;
+	 top: 200px;
+	 left:0px;
+	 border: 1px solid skyblue;
+	 background: skyblue;
+	 border-radius: 7px;
+	 color: white;
+
+}
+#innerbox{
+	padding: 5px;
+	margin: 0px 0px 0px 600px;
+	width: 200px;
+	position: absolute;
+	top: 350px;
+	left:0px;
+	border: 1px solid skyblue;
+	background: skyblue;
+	border-radius: 7px;
+	float: left;
+	color: white;
+
+
+}
+#innerbox ul li{
+	list-style: none;
+	padding: 5px;
+
+
+}
+#innerbox ul li a{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+}

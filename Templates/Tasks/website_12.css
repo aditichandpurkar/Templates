@@ -1,0 +1,79 @@
+body{
+	background: white;
+}
+#container h1{
+	color: #5ac7f1;
+	width: 720px;
+	margin: 0 auto;
+	padding: 0;
+
+}#pageheader{
+	background: url(../Images/header12.jpg) no-repeat top center;
+	width: 720px;
+	height: 160px;
+	margin: 0 auto;
+	padding: 0;
+}
+#explanation h3{
+	margin-left: 700px ;
+	margin-right: 390px;
+	text-align: right;
+	color: #5ac7f1;
+}
+#explanation .p0{
+	border-top: 2px solid #5ac7f1;
+	margin: 10px 390px 0 700px;
+	padding-top: 5px;
+	text-align: justify;
+}
+#footer{
+	border-top: 2px dashed grey;
+	width: 720px;
+	margin: 0 auto;
+	text-align:center ;
+
+	
+}
+
+#menu h3{
+	 padding: 0;
+	 margin: -100px;
+	 margin-left: 410px;
+	 width: 190px;
+	 position: absolute;
+	 top: 350px;
+	 left:0px;
+	 color:#5ac7f1;
+	 border-bottom: 2px dashed grey;
+
+
+	 
+}
+#menu ul  {
+	 padding: 0;
+	 margin: -100px;
+	 margin-left: 410px;
+	 width: 190px;
+	 position: absolute;
+	 top: 380px;
+	 left:0px;
+	 border: 1px solid grey;
+	overflow: auto;
+	padding: 10px;
+
+
+}
+#menu ul li{
+	list-style: none;
+	
+}
+#menu ul li a{
+	color: grey;
+	text-decoration: none;
+
+
+} 
+#menu ul li a:hover{
+	color: blue;
+}
+

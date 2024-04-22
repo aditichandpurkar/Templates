@@ -1,0 +1,112 @@
+body{
+	background: #fff;
+}
+#container{
+	width: 600px;
+	margin: 0 auto;
+	position: relative;
+
+	
+	
+}
+#pageheader{
+	background: url(../Images/header5.jpg) no-repeat center;
+	width:600px;
+	height: 200px;
+	margin: 0px 0px ;
+	padding-top: 50px;
+	border-bottom: 1px solid #000;
+	
+}
+#pageheader h1{
+	color: white;
+	margin:  0px ;
+	padding: 0px ;
+	padding-left: 5px;
+	font-family: sans-serif;
+
+}
+ #pageheader h3{
+	color: white;
+	margin: 0 ;
+	padding: 0;
+	padding-left: 5px;
+	font-family: sans-serif;
+}
+
+#supportingText{
+	margin: 0px 0px 0px 205px;
+	width: 300px;
+	padding-top:20px;
+	float: right;
+	padding-left: 10px;
+	border-left: 1px solid #000;
+
+	
+}
+#supportingText p{
+	border: 1px solid #000;
+	padding-top:10px;
+	padding-left: 5px;
+	margin: 0;
+}
+#supportingText h3{
+	margin: 10px 0px 0px 0px;
+	padding: 4px 3px;
+	height: 30px;
+	border: 1px solid #000;
+	text-align: left;
+	background: #46652d;
+	color: white;
+
+}
+#divider{
+	margin:680px auto;
+	width: 600px;
+	border-top:1px solid #000 ;
+
+}
+#footer{
+	padding: 0px;
+	float: right;
+
+}
+
+
+
+#linkList
+{
+	 padding: 0;
+	 margin: 0;
+	 width: 190px;
+	 position: absolute;
+	 top: 350px;
+	 left:0px;
+
+}
+	
+#linkList ul{
+	margin: 0; 
+	padding: 0; 
+	list-style: none;
+	float: right;
+
+
+}
+#lselect li{
+	color: green;
+	font-family: sans-serif;
+
+}
+#lselect li a{
+/*	padding-right:40px ;*/
+	color: #a2c8e5;
+	line-height: 2.5em;
+	text-decoration: none;
+}
+#lselect li a:hover{
+	color: green;
+}
+
+	
+

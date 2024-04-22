@@ -1,0 +1,100 @@
+body{
+	background: #4c4840;
+}
+
+#pageheader{
+	background: url(../Images/header10.jpg) no-repeat;
+	width: 714px;
+	height: 180px;
+	margin: 0 auto;
+	padding: 0;
+	color: white;
+	font-family: sans-serif;
+}
+#supportingText{
+	width: 714px;
+	margin: 0 auto;
+	padding: 0;
+	
+	background-color: #fff;
+
+
+#explanation .p1  {
+	 margin: 0px;
+	 margin-left: 250px;
+	 padding: 10px 0 10px 0;
+	 margin-right: 10px;
+	 border-top:2px dashed brown;
+	 border-bottom: 2px dashed brown;
+	 text-align: justify;
+	
+
+}
+#participation {
+	margin: 0px;
+	 margin-left: 250px;
+	 margin-right: 10px;
+	 padding: 5px 0 10px 0;
+	 border-top:2px dashed brown;
+	 border-bottom: 2px dashed brown;
+	 text-align: justify;
+
+	
+
+}
+/*#footer{
+	display: block;
+	background:#4c4840;
+	padding: 0px;
+	margin: 5px;
+	color: white;
+	text-align: justify;
+
+}*/
+#inbox{
+	
+	display: block;
+	background:#4c4840;
+	padding: 0px 0px 0px 10px;
+	padding-left: 400px;
+	margin: 5px;
+	color: white;
+	text-align: justify;
+	
+}
+#leftlink  {
+	 padding: 0;
+	 margin: -100px;
+	 margin-left: 410px;
+	 width: 190px;
+	 position: absolute;
+	 top: 350px;
+	 left:0px;
+
+	
+
+
+}
+#leftlink ul{
+	list-style: none;
+}
+#leftlink ul li a{
+	display: block;
+	text-decoration: underline;
+	line-height: 2em;
+	font-family: sans-serif;
+	color: black;
+	text-align: center;
+	border-bottom: 2px solid brown;
+
+
+}
+#leftlink h3{
+	margin-left: 50px;
+}
+#leftlink li:hover{
+	background-color: grey;
+}
+#leftlink ul li a:hover{
+	color: orange;
+}

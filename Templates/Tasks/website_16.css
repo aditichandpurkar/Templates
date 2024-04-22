@@ -1,0 +1,89 @@
+body{
+	background: url(../Images/body16.gif) repeat-y top center;
+	margin: 0 auto;
+	padding: 0;
+
+
+}
+#container{
+	background: url(../Images/header16.jpg) no-repeat center;
+	width:460px ;
+	height: 231px;
+	margin: 0 auto;
+	padding: 10px;
+
+
+
+}
+#pageheader h1 {
+	text-align: right;
+}
+#pageheader h2{
+	text-align: right;
+	color: #D67575;
+	font-family: sans-serif;
+}
+#links ul{
+	margin: 100px 0 0 0;
+}
+#links ul li{
+	display:inline;
+	list-style: none;
+
+
+
+
+}
+#links ul li a{
+	padding: 10px 10px;
+	text-decoration: none;
+	border-bottom: 10px solid #fff;
+	margin-top: 0px;
+	color: red;
+	font:bolder;
+	font-family: sans-serif;
+	
+}
+#links ul li a:hover{
+	color: blue;
+}
+#explanation {
+	padding-left: 200px;
+	color: white;
+	text-align: justify;
+
+}
+#explanation h3{
+	display: block;
+	border: 1px solid #fff;
+	margin-top: 40px;
+	padding: 5px;
+	background: #42A5F5;
+	color: white;
+}
+#slidebar {
+
+	
+	padding-right: 300px;
+	margin-top: -700px;
+	text-align: justify;
+	color: white;
+}
+#menu h3{
+	color: white;
+}
+#menu ul{
+	list-style: none;
+}
+#menu ul li{
+	display: block;
+	border: 1px solid white;
+	margin-right: 300px;
+	margin-left: -10px;
+	padding: 10px 10px 10px 10px;
+	background: #B87B7B;
+}
+#menu ul li a{
+	color: white;
+
+}
